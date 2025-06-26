@@ -79,6 +79,10 @@ This project implements **extractive text summarization** using a custom-built v
 
 ---
 
+## Output
+
+<img width="992" alt="Image" src="https://github.com/user-attachments/assets/d06545c8-e0e9-4d40-becc-02b9490c9ce4" />
+
 ## Example Usage
 
 ```python
