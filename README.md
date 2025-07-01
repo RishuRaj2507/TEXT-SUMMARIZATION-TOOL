@@ -1,4 +1,4 @@
-# tezt-summarizer-project
+# text-summarizer-project
 
 *Company* - *CODTECH IT SOLUTIONS*
 
